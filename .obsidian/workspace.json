@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/blog posts/belief and value systems.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "belief and value systems"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/blog posts/belief and value systems.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for belief and value systems"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/blog posts/belief and value systems.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of belief and value systems"
+              "title": "Outline of index"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/blog posts/belief and value systems.md",
+                "file": "source/content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of belief and value systems"
+              "title": "Graph of index"
             }
           }
         ],
@@ -222,12 +222,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "badb770c729484a3",
+  "active": "ae3b76c056b52d8c",
   "lastOpenFiles": [
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source",
+    "Users/nowsimon/Documents/GitHub/scrapbook",
+    "Users/nowsimon/Documents/GitHub",
+    "Users/nowsimon/Documents",
+    "Users/nowsimon",
+    "Users",
+    "index-1761910818179.jpg",
+    "source/content/meme.md",
+    "source/content/0 images/ohler coach.jpg",
+    "source/content/index.md",
+    "source/docs/index.md",
+    "source/content/blog posts/belief and value systems.md",
     "source/docs/README 1.md",
     "source/docs/CODE_OF_CONDUCT.md",
     "source/docs/README.md",
-    "source/content/1 images/Coaching-1761909989461.png",
+    "source/content/0 images/Coaching-1761909989461.png",
     "z brick.do page/Projects.md",
     "z brick.do page/Content.md",
     "z brick.do page/Life and Work in the Rhythm of the Seasons.md",
@@ -242,19 +257,11 @@
     "z brick.do page",
     "source/content/category-folder/blog posts/Substack -- small spells.md",
     "source/content/externalities.md",
-    "source/content/meme.md",
     "source/content/should.md",
     "source/content/good life.md",
     "source/content/blog posts/everything is scaffolding for love.md",
-    "source/content/blog posts/belief and value systems.md",
-    "source/content/index.md",
     "source/content/index 2.md",
     "source/content/blog posts/what is wisdom?.md",
-    "source/content/blog posts/how to get along (pace and space).md",
-    "source/content/blog posts/what is agency.md",
-    "source/content/blog posts",
-    "source/content/category-folder/blog posts",
-    "source/content/1 images",
-    "source/content/hello folder"
+    "source/content/blog posts"
   ]
 }

@@ -1,9 +1,9 @@
 ---
-title: home
+title: Welcome to my garden
 aliases:
   - home
 ---
 
-Hello world!
+Hi, it's ya boy Simon here!
 
-Write some words here!
+![[index-1761910909579.jpg]]

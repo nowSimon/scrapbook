@@ -11,9 +11,14 @@
     {
       "type": "CURRENT",
       "name": "Same folder as current note"
+    },
+    {
+      "name": "store images in 0 images",
+      "type": "CUSTOM",
+      "customTemplate": "/Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "store images in 0 images",
   "filenamePresets": [
     {
       "name": "Keep original name",
