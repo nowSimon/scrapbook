@@ -13,12 +13,12 @@
       "name": "Same folder as current note"
     },
     {
-      "name": "store images in 0 images",
+      "name": "images",
       "type": "CUSTOM",
-      "customTemplate": "/Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images"
+      "customTemplate": "source/content/0 images"
     }
   ],
-  "selectedFolderPreset": "store images in 0 images",
+  "selectedFolderPreset": "images",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -33,7 +33,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "NoteName-Timestamp",
+  "selectedFilenamePreset": "Keep original name",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,

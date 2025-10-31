@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z brick.do page/The Village.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Village"
-            }
-          },
-          {
-            "id": "ae3b76c056b52d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/spell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spell"
-            }
-          },
-          {
-            "id": "8d3e8471e2abbf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
@@ -49,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,21 +207,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d3e8471e2abbf3a",
+  "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "source/content/0 images/index-1761910818179.jpg",
-    "source/content/0 images/ohler coach.jpg",
+    "source/content/0 images/ohler coach.webp",
+    "source/content/0 images/index-1761912564143.webp",
     "source/content/0 images/Coaching-1761909989461.png",
     "source/content/index.md",
-    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761912145767.webp",
+    "index-1761912480742.webp",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761912365382.webp",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761911898347.jpg",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
+    "source/content/0 images/ohler coach.jpg",
+    "source/content/0 images/index-1761910818179.jpg",
+    "z brick.do pages/About me.md",
+    "source/content/blog posts/how to get along (pace and space).md",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761912145767.webp",
     "source/content/meme.md",
     "source/content/blog posts/everything is scaffolding for love.md",
     "source/content/good life.md",
     "source/content/blog posts/Substack -- small spells.md",
     "source/content/Study and Practice.md",
     "source/content/spell.md",
-    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content",
     "Users/nowsimon/Documents/GitHub/scrapbook/source",
@@ -264,20 +241,18 @@
     "source/docs/README 1.md",
     "source/docs/CODE_OF_CONDUCT.md",
     "source/docs/README.md",
-    "z brick.do page/Projects.md",
-    "z brick.do page/Content.md",
-    "z brick.do page/Life and Work in the Rhythm of the Seasons.md",
-    "z brick.do page/The Village.md",
-    "z brick.do page/Workshops.md",
-    "z brick.do page/Speaking.md",
-    "z brick.do page/Coaching.md",
-    "z brick.do page/TREEWEEK TWO.md",
-    "z brick.do page/TREEWEEK.md",
-    "z brick.do page/Testimonials.md",
+    "z brick.do pages/Projects.md",
+    "z brick.do pages/Content.md",
+    "z brick.do pages/Life and Work in the Rhythm of the Seasons.md",
+    "z brick.do pages/The Village.md",
+    "z brick.do pages/Workshops.md",
+    "z brick.do pages/Speaking.md",
+    "z brick.do pages/Coaching.md",
+    "z brick.do pages/TREEWEEK TWO.md",
+    "z brick.do pages/TREEWEEK.md",
+    "z brick.do pages/Testimonials.md",
     "test note.md",
-    "z brick.do page",
-    "source/content/category-folder/blog posts/Substack -- small spells.md",
-    "source/content/externalities.md",
+    "z brick.do pages",
     "source/content/blog posts"
   ]
 }
