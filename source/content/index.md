@@ -6,7 +6,7 @@ aliases:
 
 Hi, it's ya boy Simon here!
 
-![[index-1761910909579.jpg]]
+![[index-1761912145767.webp]]
 
 You can find me on Twitter [@simon_ohler](twitter.com/simon_ohler)
 

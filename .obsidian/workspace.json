@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/blog posts/everything is scaffolding for love.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "everything is scaffolding for love"
+              "title": "index"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/blog posts/everything is scaffolding for love.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for everything is scaffolding for love"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/blog posts/everything is scaffolding for love.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of everything is scaffolding for love"
+              "title": "Outline of index"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/blog posts/everything is scaffolding for love.md",
+                "file": "source/content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of everything is scaffolding for love"
+              "title": "Graph of index"
             }
           }
         ],
@@ -238,12 +238,18 @@
   },
   "active": "8d3e8471e2abbf3a",
   "lastOpenFiles": [
+    "source/content/0 images/index-1761910818179.jpg",
+    "source/content/0 images/ohler coach.jpg",
+    "source/content/0 images/Coaching-1761909989461.png",
+    "source/content/index.md",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761912145767.webp",
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761911898347.jpg",
+    "source/content/meme.md",
+    "source/content/blog posts/everything is scaffolding for love.md",
     "source/content/good life.md",
     "source/content/blog posts/Substack -- small spells.md",
     "source/content/Study and Practice.md",
     "source/content/spell.md",
-    "source/content/0 images/index-1761910818179.jpg",
-    "source/content/index.md",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content",
@@ -253,14 +259,11 @@
     "Users/nowsimon/Documents",
     "Users/nowsimon",
     "Users",
-    "source/content/meme.md",
-    "source/content/0 images/ohler coach.jpg",
     "source/docs/index.md",
     "source/content/blog posts/belief and value systems.md",
     "source/docs/README 1.md",
     "source/docs/CODE_OF_CONDUCT.md",
     "source/docs/README.md",
-    "source/content/0 images/Coaching-1761909989461.png",
     "z brick.do page/Projects.md",
     "z brick.do page/Content.md",
     "z brick.do page/Life and Work in the Rhythm of the Seasons.md",
@@ -275,8 +278,6 @@
     "z brick.do page",
     "source/content/category-folder/blog posts/Substack -- small spells.md",
     "source/content/externalities.md",
-    "source/content/should.md",
-    "source/content/blog posts/everything is scaffolding for love.md",
     "source/content/blog posts"
   ]
 }

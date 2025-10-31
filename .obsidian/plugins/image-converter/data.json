@@ -108,7 +108,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "PNGQUANT (65-80, no resizing)",
+  "selectedConversionPreset": "WEBP (75, no resizing)",
   "globalPresets": [
     {
       "name": "WebP 75",
