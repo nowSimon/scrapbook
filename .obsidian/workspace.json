@@ -25,16 +25,32 @@
             "id": "ae3b76c056b52d8c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/0 images/index-1761910818179.jpg"
+                "file": "source/content/spell.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "index-1761910818179"
+              "icon": "lucide-file",
+              "title": "spell"
+            }
+          },
+          {
+            "id": "8d3e8471e2abbf3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/blog posts/everything is scaffolding for love.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "everything is scaffolding for love"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/0 images/index-1761910818179.jpg",
+                "file": "source/content/blog posts/everything is scaffolding for love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index-1761910818179"
+              "title": "Backlinks for everything is scaffolding for love"
             }
           },
           {
@@ -155,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/0 images/index-1761910818179.jpg",
+                "file": "source/content/blog posts/everything is scaffolding for love.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index-1761910818179"
+              "title": "Outline of everything is scaffolding for love"
             }
           },
           {
@@ -170,11 +186,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/0 images/index-1761910818179.jpg",
+                "file": "source/content/blog posts/everything is scaffolding for love.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -194,11 +210,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.24639960848899317,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index-1761910818179"
+              "title": "Graph of everything is scaffolding for love"
             }
           }
         ],
@@ -220,8 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "badb770c729484a3",
+  "active": "8d3e8471e2abbf3a",
   "lastOpenFiles": [
+    "source/content/good life.md",
+    "source/content/blog posts/Substack -- small spells.md",
+    "source/content/Study and Practice.md",
+    "source/content/spell.md",
+    "source/content/0 images/index-1761910818179.jpg",
     "source/content/index.md",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
@@ -232,7 +253,6 @@
     "Users/nowsimon/Documents",
     "Users/nowsimon",
     "Users",
-    "source/content/0 images/index-1761910818179.jpg",
     "source/content/meme.md",
     "source/content/0 images/ohler coach.jpg",
     "source/docs/index.md",
@@ -256,10 +276,7 @@
     "source/content/category-folder/blog posts/Substack -- small spells.md",
     "source/content/externalities.md",
     "source/content/should.md",
-    "source/content/good life.md",
     "source/content/blog posts/everything is scaffolding for love.md",
-    "source/content/index 2.md",
-    "source/content/blog posts/what is wisdom?.md",
     "source/content/blog posts"
   ]
 }
