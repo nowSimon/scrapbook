@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bbfd21aec5fd378e",
+        "id": "245eae0d8504bee1",
         "type": "tabs",
         "children": [
           {
-            "id": "dffaeea4117cec0c",
+            "id": "87f4547fe3d239c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "z brick.do page/The Village.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Village"
             }
           },
           {
-            "id": "678b2e67d104bc4b",
+            "id": "ae3b76c056b52d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "source/content/blog posts/belief and value systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test note"
+              "title": "belief and value systems"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note.md",
+                "file": "source/content/blog posts/belief and value systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test note"
+              "title": "Backlinks for belief and value systems"
             }
           },
           {
@@ -157,21 +157,58 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test note.md",
+                "file": "source/content/blog posts/belief and value systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test note"
+              "title": "Outline of belief and value systems"
+            }
+          },
+          {
+            "id": "c8ea29179ae84c20",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "source/content/blog posts/belief and value systems.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.24639960848899317,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of belief and value systems"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,35 +222,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678b2e67d104bc4b",
+  "active": "badb770c729484a3",
   "lastOpenFiles": [
+    "source/docs/README 1.md",
+    "source/docs/CODE_OF_CONDUCT.md",
+    "source/docs/README.md",
+    "source/content/images/Coaching-1761909989461.png",
+    "z brick.do page/Projects.md",
+    "z brick.do page/Content.md",
+    "z brick.do page/Life and Work in the Rhythm of the Seasons.md",
+    "z brick.do page/The Village.md",
+    "z brick.do page/Workshops.md",
+    "z brick.do page/Speaking.md",
+    "z brick.do page/Coaching.md",
+    "z brick.do page/TREEWEEK TWO.md",
+    "z brick.do page/TREEWEEK.md",
+    "z brick.do page/Testimonials.md",
+    "test note.md",
+    "z brick.do page",
+    "source/content/category-folder/blog posts/Substack -- small spells.md",
+    "source/content/externalities.md",
+    "source/content/meme.md",
+    "source/content/should.md",
+    "source/content/good life.md",
+    "source/content/blog posts/everything is scaffolding for love.md",
+    "source/content/blog posts/belief and value systems.md",
+    "source/content/index.md",
     "source/content/index 2.md",
     "source/content/blog posts/what is wisdom?.md",
     "source/content/blog posts/how to get along (pace and space).md",
     "source/content/blog posts/what is agency.md",
-    "source/content/blog posts/how to do well as a visionary.md",
-    "source/content/blog posts/everything is scaffolding for love.md",
-    "source/content/blog posts/treat others well and be honest with each other.md",
-    "source/content/blog posts/what is natural creativity?.md",
-    "source/content/blog posts/belief and value systems.md",
-    "source/content/blog posts/the village.md",
-    "source/content/blog posts/Substack -- small spells.md",
-    "source/content/spell.md",
-    "source/content/Some note.md",
-    "source/content/should.md",
-    "source/content/meme.md",
-    "source/content/good life.md",
-    "source/content/externalities.md",
     "source/content/blog posts",
-    "source/content/category-folder/spell.md",
-    "source/content/category-folder/should.md",
-    "source/content/category-folder/meme.md",
-    "source/content/category-folder/good life.md",
-    "source/content/category-folder/externalities.md",
-    "source/content/category-folder/blog posts/what is wisdom?.md",
-    "source/content/category-folder/blog posts/what is natural creativity?.md",
-    "source/content/category-folder/blog posts/what is agency.md",
-    "source/content/category-folder/blog posts/treat others well and be honest with each other.md",
     "source/content/category-folder/blog posts",
     "source/content/images",
     "source/content/hello folder"

@@ -1,5 +1,7 @@
 ---
-title: My GitHub Pages Notebook!
+title: home
+aliases:
+  - home
 ---
 
 Hello world!
