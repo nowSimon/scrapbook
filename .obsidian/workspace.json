@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+                "file": "source/content/1 blog posts trees/nothing here for now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is trust and how can we build it?"
+              "title": "nothing here for now"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+                "file": "source/content/1 blog posts trees/nothing here for now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for what is trust and how can we build it?"
+              "title": "Backlinks for nothing here for now"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+                "file": "source/content/1 blog posts trees/nothing here for now.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of what is trust and how can we build it?"
+              "title": "Outline of nothing here for now"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+                "file": "source/content/1 blog posts trees/nothing here for now.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of what is trust and how can we build it?"
+              "title": "Graph of nothing here for now"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "source/content/3 blog post seeds/what is alignment?.md",
     "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+    "source/content/1 blog posts trees/nothing here for now.md",
+    "source/content/3 blog post seeds/what is alignment?.md",
     "source/content/2 blog post sprouts",
     "source/content/1 blog posts trees",
     "source/content/2 blog post sprouts/Study and Practice.md",
@@ -253,7 +254,6 @@
     "z brick.do pages/Life and Work in the Rhythm of the Seasons.md",
     "z brick.do pages/The Village.md",
     "z brick.do pages/Workshops.md",
-    "z brick.do pages/Speaking.md",
-    "z brick.do pages/Coaching.md"
+    "z brick.do pages/Speaking.md"
   ]
 }
