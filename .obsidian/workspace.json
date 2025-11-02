@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/blog posts/Study and Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Study and Practice"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/blog posts/Study and Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Study and Practice"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/blog posts/Study and Practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Study and Practice"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/blog posts/Study and Practice.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Study and Practice"
             }
           }
         ],
@@ -207,10 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87f4547fe3d239c7",
+  "active": "badb770c729484a3",
   "lastOpenFiles": [
     "source/content/TREEWEEK TWO.md",
-    "source/content/index.md",
+    "source/content/blog posts/Study and Practice.md",
+    "source/content/memes & spells/externalities.md",
+    "source/content/memes & spells/index.md",
+    "source/content/memes & spells",
+    "source/content/Some note.md",
     "source/content/0 images/ohler coach.webp",
     "source/content/0 images/index-1761912564143.webp",
     "source/content/0 images/Coaching-1761909989461.png",
@@ -223,12 +227,11 @@
     "z brick.do pages/About me.md",
     "source/content/blog posts/how to get along (pace and space).md",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761912145767.webp",
-    "source/content/meme.md",
+    "source/content/memes & spells/meme.md",
     "source/content/blog posts/everything is scaffolding for love.md",
-    "source/content/good life.md",
+    "source/content/memes & spells/good life.md",
     "source/content/blog posts/Substack -- small spells.md",
-    "source/content/Study and Practice.md",
-    "source/content/spell.md",
+    "source/content/memes & spells/spell.md",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content",
     "Users/nowsimon/Documents/GitHub/scrapbook/source",
@@ -251,8 +254,6 @@
     "z brick.do pages/Coaching.md",
     "z brick.do pages/TREEWEEK.md",
     "z brick.do pages/Testimonials.md",
-    "test note.md",
-    "z brick.do pages",
-    "source/content/blog posts"
+    "z brick.do pages"
   ]
 }
