@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/TREEWEEK TWO.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TREEWEEK TWO"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/TREEWEEK TWO.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TREEWEEK TWO"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/TREEWEEK TWO.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TREEWEEK TWO"
+              "title": "Outline of index"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/TREEWEEK TWO.md",
+                "file": "source/content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TREEWEEK TWO"
+              "title": "Graph of index"
             }
           }
         ],
@@ -207,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "badb770c729484a3",
+  "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
+    "source/content/TREEWEEK TWO.md",
     "source/content/index.md",
     "source/content/0 images/ohler coach.webp",
     "source/content/0 images/index-1761912564143.webp",
@@ -248,7 +249,6 @@
     "z brick.do pages/Workshops.md",
     "z brick.do pages/Speaking.md",
     "z brick.do pages/Coaching.md",
-    "source/content/TREEWEEK TWO.md",
     "z brick.do pages/TREEWEEK.md",
     "z brick.do pages/Testimonials.md",
     "test note.md",

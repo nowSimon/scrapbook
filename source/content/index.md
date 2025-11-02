@@ -3,7 +3,9 @@ title: Welcome to my garden
 aliases:
   - home
 ---
-![[ohler coach.webp]]
+new website alert! it's still a bit messy, give me a few...
+
+![[ohler coach.webp|250]]
 
 Hi, it's ya boy Simon here!
 
