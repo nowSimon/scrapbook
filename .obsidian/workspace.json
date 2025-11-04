@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1 blog posts trees/nothing here for now.md",
+                "file": "source/content/5 working with me/difficult conversations coaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nothing here for now"
+              "title": "difficult conversations coaching"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1 blog posts trees/nothing here for now.md",
+                "file": "source/content/5 working with me/difficult conversations coaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nothing here for now"
+              "title": "Backlinks for difficult conversations coaching"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1 blog posts trees/nothing here for now.md",
+                "file": "source/content/5 working with me/difficult conversations coaching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nothing here for now"
+              "title": "Outline of difficult conversations coaching"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/1 blog posts trees/nothing here for now.md",
+                "file": "source/content/5 working with me/difficult conversations coaching.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of nothing here for now"
+              "title": "Graph of difficult conversations coaching"
             }
           }
         ],
@@ -209,14 +209,27 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "source/content/3 blog post seeds/what is trust and how can we build it?.md",
+    "source/content/5 working with me/difficult conversations coaching.md",
+    "source/content/2 blog post sprouts/all good coaching programs look like this.md",
+    "source/content/5 working with me/closing loops coaching.md",
+    "source/content/4 meme & spell glossary/natural creativity.md",
+    "source/content/4 meme & spell glossary/god is in your corner.md",
+    "source/content/5 working with me/testimonials.md",
+    "source/content/5 working with me/voice coaching.md",
+    "source/content/4 meme & spell glossary/externalities.md",
+    "source/content/3 blog post seeds/money mini games.md",
+    "source/content/2 blog post sprouts/Substack -- small spells.md",
+    "source/content/2 blog post sprouts/Study and Practice.md",
+    "cal.com/simonohler/voice.md",
+    "cal.com/simonohler",
+    "cal.com",
+    "source/content/5 working with me",
     "source/content/1 blog posts trees/nothing here for now.md",
+    "source/content/3 blog post seeds/what is trust and how can we build it?.md",
     "source/content/3 blog post seeds/what is alignment?.md",
     "source/content/2 blog post sprouts",
     "source/content/1 blog posts trees",
-    "source/content/2 blog post sprouts/Study and Practice.md",
     "source/content/TREEWEEK TWO.md",
-    "source/content/4 meme & spell glossary/externalities.md",
     "source/content/index.md",
     "source/content/4 meme & spell glossary",
     "source/content/Some note.md",
@@ -235,25 +248,12 @@
     "source/content/4 meme & spell glossary/meme.md",
     "source/content/3 blog post seeds/everything is scaffolding for love.md",
     "source/content/4 meme & spell glossary/good life.md",
-    "source/content/2 blog post sprouts/Substack -- small spells.md",
     "source/content/4 meme & spell glossary/spell.md",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content",
     "Users/nowsimon/Documents/GitHub/scrapbook/source",
     "Users/nowsimon/Documents/GitHub/scrapbook",
-    "Users/nowsimon/Documents/GitHub",
-    "Users/nowsimon/Documents",
-    "Users/nowsimon",
     "source/docs/index.md",
-    "source/content/3 blog post seeds/belief and value systems.md",
-    "source/docs/README 1.md",
-    "source/docs/CODE_OF_CONDUCT.md",
-    "source/docs/README.md",
-    "z brick.do pages/Projects.md",
-    "z brick.do pages/Content.md",
-    "z brick.do pages/Life and Work in the Rhythm of the Seasons.md",
-    "z brick.do pages/The Village.md",
-    "z brick.do pages/Workshops.md",
-    "z brick.do pages/Speaking.md"
+    "source/content/3 blog post seeds/belief and value systems.md"
   ]
 }
