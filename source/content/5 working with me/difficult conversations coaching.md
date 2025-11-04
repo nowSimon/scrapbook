@@ -27,12 +27,18 @@ what you will learn:
 - how to ask other people what they want and need
 - how to create a good agreement
 
-key concepts:
+key concepts (more in the relationship realm):
 - standard conflict script overview
 - being in trouble
 - the "what happened" conversation
 - who helps, who gets help?
+- what does help look like?
 - evening the score
 - apologizing well
 - making sure this doesn't happen again
 - ... and more!
+
+the key concepts in the non-emotional realm look a bit different, but they revolve around the same principles around identifying needs and wants. it's better to learn the emotional realm because a) personal relationships tend to matter more in the end and b) it's easy to transfer the skills.
+
+
+if you need this to upskill yourself, your team, or if you need my help as a mediator, [[contact me]] : )
