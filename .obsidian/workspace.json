@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/contact me.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact me"
+              "title": "index"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/contact me.md",
+                "file": "source/content/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contact me"
+              "title": "Graph of index"
             }
           }
         ],
@@ -209,10 +209,12 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "source/content/5 working with me/difficult conversations coaching.md",
+    "twitter.com/simon_ohler.md",
     "source/content/index.md",
-    "cal.com/simonohler.md",
+    "twitter.com",
     "source/content/contact me.md",
+    "source/content/5 working with me/difficult conversations coaching.md",
+    "cal.com/simonohler.md",
     "source/content/5 working with me/closing loops coaching.md",
     "source/content/5 working with me/voice coaching.md",
     "cal.com/simonohler/loops.md",
@@ -245,7 +247,6 @@
     "source/content/2 blog post sprouts",
     "source/content/1 blog posts trees",
     "source/content/4 meme & spell glossary",
-    "source/content/Some note.md",
     "source/content/0 images/index-1761912564143.webp",
     "source/content/0 images/Coaching-1761909989461.png",
     "index-1761912480742.webp",
@@ -253,7 +254,6 @@
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761911898347.jpg",
     "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images/index-1761910909579.jpg",
     "source/content/0 images/ohler coach.jpg",
-    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images",
-    "Users/nowsimon/Documents/GitHub/scrapbook/source/content"
+    "Users/nowsimon/Documents/GitHub/scrapbook/source/content/0 images"
   ]
 }
