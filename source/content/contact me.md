@@ -1,4 +1,4 @@
 
 email me: simon@ohler.coach
 
-book a call: cal.com/simonohler/hello
+book a call: https://cal.com/simonohler/hello
