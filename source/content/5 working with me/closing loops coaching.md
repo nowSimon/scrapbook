@@ -36,7 +36,7 @@ I'll help you become an effective loop closer in 6 modules.
 
 ## pricing
 
-#### tier 1: full [[#closing loops program]]
+### tier 1: full [[#closing loops program]]
 
 6 sessions @ 60 minutes
    
@@ -53,7 +53,7 @@ great for:
 - diving deeper into emotional causes
    
 
-#### tier 2: intensive [[#closing loops program]]
+### tier 2: intensive [[#closing loops program]]
 
 3 sessions @ 60 minutes
    
@@ -70,7 +70,7 @@ great for:
 - more affordable access
 
 
-#### tier 3: one off introduction
+### tier 3: one off introduction
 
 1 session @ 60 minutes
 

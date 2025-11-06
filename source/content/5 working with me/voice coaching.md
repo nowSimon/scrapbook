@@ -46,7 +46,7 @@ there is no set program here, but we're going linearly through what comes up. yo
 
 for an introductory call, [book here](https://cal.com/simonohler/voice). 
 
-#### tier 1: SYMPHONY
+### tier 1: SYMPHONY
 
 6 sessions @ 60 minutes
    
@@ -62,7 +62,7 @@ great for:
 - deep personal and emotional coaching
    
 
-#### tier 2: SONG
+### tier 2: SONG
 
 3 sessions @ 60 minutes
    
@@ -76,7 +76,7 @@ great for:
 - a sense of possibility
 
 
-#### tier 3: NOTE
+### tier 3: NOTE
 
 1 session @ 60 minutes
 

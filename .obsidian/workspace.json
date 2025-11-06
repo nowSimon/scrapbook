@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/contact me.md",
+                "file": "source/content/5 working with me/voice coaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact me"
+              "title": "voice coaching"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/contact me.md",
+                "file": "source/content/5 working with me/voice coaching.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contact me"
+              "title": "Graph of voice coaching"
             }
           }
         ],
@@ -209,16 +209,16 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "simon@ohler.coach.md",
+    "source/content/5 working with me/closing loops coaching.md",
+    "source/content/5 working with me/difficult conversations coaching.md",
     "source/content/contact me.md",
+    "simon@ohler.coach.md",
     "source/content/TREEWEEK TWO.md",
     "source/content/testimonials.md",
     "source/content/index.md",
     "twitter.com/simon_ohler.md",
     "twitter.com",
-    "source/content/5 working with me/difficult conversations coaching.md",
     "cal.com/simonohler.md",
-    "source/content/5 working with me/closing loops coaching.md",
     "source/content/5 working with me/voice coaching.md",
     "cal.com/simonohler/loops.md",
     "www.cal.com/simonohler/loops-special.md",
