@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/contact me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "contact me"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/contact me.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of contact me"
             }
           }
         ],
@@ -209,10 +209,13 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "twitter.com/simon_ohler.md",
-    "source/content/index.md",
-    "twitter.com",
+    "simon@ohler.coach.md",
     "source/content/contact me.md",
+    "source/content/TREEWEEK TWO.md",
+    "source/content/testimonials.md",
+    "source/content/index.md",
+    "twitter.com/simon_ohler.md",
+    "twitter.com",
     "source/content/5 working with me/difficult conversations coaching.md",
     "cal.com/simonohler.md",
     "source/content/5 working with me/closing loops coaching.md",
@@ -224,8 +227,6 @@
     "cal.com/simonohler/loops-special.md",
     "cal.com/simonohler",
     "cal.com",
-    "source/content/testimonials.md",
-    "source/content/TREEWEEK TWO.md",
     "source/content/3 blog post seeds/closing loops.md",
     "source/content/0 images/image.webp",
     "source/content/0 images/Man, sometimes it takes you a long time to sound like yourself..webp",
@@ -243,7 +244,6 @@
     "source/content/5 working with me",
     "source/content/1 blog posts trees/nothing here for now.md",
     "source/content/3 blog post seeds/what is trust and how can we build it?.md",
-    "source/content/3 blog post seeds/what is alignment?.md",
     "source/content/2 blog post sprouts",
     "source/content/1 blog posts trees",
     "source/content/4 meme & spell glossary",
