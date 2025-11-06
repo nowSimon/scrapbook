@@ -36,7 +36,7 @@ I'll help you become an effective loop closer in 6 modules.
 
 ## pricing
 
-### tier 1: full [[#closing loops program]]
+### tier 3: full [[#closing loops program]]
 
 6 sessions @ 60 minutes
    
@@ -70,13 +70,13 @@ great for:
 - more affordable access
 
 
-### tier 3: one off introduction
+### tier 1: one off introduction
 
 1 session @ 60 minutes
 
 together we'll do an analysis of situation and put some open loops on paper. pretty much module 1 of [[#closing loops program]], with some of module 2 mixed in.
 
-if you like this, we can extend this to [[#tier 2 intensive closing loops program]] or [[#tier 1 full closing loops program]] at no extra cost.
+if you like this, we can extend this to [[#tier 2 intensive closing loops program]] or [[#tier 3 full closing loops program]] at no extra cost.
 
 **~~250 EUR~~ 99 EUR** 
 [book here](https://cal.com/simonohler/loops-special)

@@ -46,7 +46,7 @@ there is no set program here, but we're going linearly through what comes up. yo
 
 for an introductory call, [book here](https://cal.com/simonohler/voice). 
 
-### tier 1: SYMPHONY
+### tier 3: SYMPHONY
 
 6 sessions @ 60 minutes
    
@@ -76,13 +76,13 @@ great for:
 - a sense of possibility
 
 
-### tier 3: NOTE
+### tier 1: NOTE
 
 1 session @ 60 minutes
 
 together we'll do an analysis of situation and do some voice exercises.
 
-if you like this, we can extend this to [[#tier 2 SONG]] or [[#tier 1 SYMPHONY]] at no extra cost.
+if you like this, we can extend this to [[#tier 2 SONG]] or [[#tier 3 SYMPHONY]] at no extra cost.
 
 ~~**250 EUR**~~ **99 EUR**
 [book here](https://cal.com/simonohler/voice-special)
