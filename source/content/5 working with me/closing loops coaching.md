@@ -1,9 +1,16 @@
+wip
 
 closing loops is all rage right now. maybe you found my work via this viral tweet:
 
 https://x.com/simon_ohler/status/1985048224642589041
 
 ![[image.webp|500]]
+
+
+my full closing loop program contains 6 sessions:
+
+
+
 
 3 tiers:
 
@@ -42,15 +49,6 @@ session 6: conclude, compare the state you are in now with session 1. is there p
 
 
 
-'m thinking for pricing:
-
-800 EUR for 6 sessions 1:1
-
-250-500 EUR for 6 sessions in a group (probably sliding scale for different incomes)
-
-if you want to do a smaller 1:1 run, I'm also open to it. happy for you to tell me what would work for you.
-
-
 
 
 
@@ -82,17 +80,10 @@ session 2: I'll teach you my to do list system and tell you how it works. you wi
 session 3: you will have tested the to-do list system
 
 
-here are questions for you:
 
-1) I guess you're you're struggling with some of the following things
-	1) to do list sprawl and decay (you make a to do list and it gets out of date and it frustrates you; you don't know how to identify what to do next)
-	2) you can't estimate how long tasks take you
-	3) you have a hard time prioritizing
-	4) you waste time on your phone (or in other ingenious ways)
-   Please correct me if I'm wrong, or specify.
-2) What do you want to get done? ()
 
 
 Q: How do you close a loop with someone who has cut you out of their life and there is no way to communicate with them?
 
 A: this is a matter of forgiveness. you could write a letter, pour your heart out and either send it, or not keep it, or burn it, or let it float away on the water. the letter helps you get things off your chest, then you can forgive and pray to uncouple yourself from the other.
+wipo
