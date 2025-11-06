@@ -40,55 +40,56 @@ Jenn worked with me on her voice & resonance and she had these takeaways:
 
 ---
 
-## pricing
+## pricing & program
 
-tier 1: full [[#closing loops program]]
+there is no set program here, but we're going linearly through what comes up. you can choose between 3 different pricing tiers.
+
+for an introductory call, [book here](https://cal.com/simonohler/voice). 
+
+#### tier 1: SYMPHONY
 
 6 sessions @ 60 minutes
    
-usually scheduled across 10-20 weeks depending on your needs and my availability.
+usually scheduled across 6-15 weeks depending on your needs and my availability.
    
 includes dm support during program duration.
    
-**799 EUR** for private individuals
-[[contact me]] for B2B offer
+**799 EUR** for private individuals. [book an intro call](https://cal.com/simonohler/voice) to get started.
    
 great for: 
-- lasting habit building
-- accompanying a project
-- diving deeper into emotional causes
+- lasting voice improvements
+- accompanying a season
+- deep personal and emotional coaching
    
 
-#### tier 2: intensive [[#closing loops program]]
+#### tier 2: SONG
 
 3 sessions @ 60 minutes
    
 scheduled across 3-6 weeks.
 
-combines sessions 1/2, 3/4, 5/6 into 3 respective sessions.
-
-**499 EUR** for private individuals
-[[contact me]] for B2B offer
+**499 EUR** for private individuals. [book an intro call](https://cal.com/simonohler/voice) to get started.
 
 great for:
-- fast learners
-- urgent results
-- more affordable access
+- a basic excursion
+- getting an understanding of your voice and its blocks
+- a sense of possibility
 
 
-#### tier 3: one off introduction
+#### tier 3: NOTE
 
 1 session @ 60 minutes
 
-together we'll do an analysis of situation and put some open loops on paper. pretty much session 1 of [[#closing loops program]], with some of session 2 mixed in.
+together we'll do an analysis of situation and do some voice exercises.
 
-if you like this, we can extend this to [[#tier 2 intensive closing loops program]] or [[#tier 1 full closing loops program]] at no extra cost.
+if you like this, we can extend this to [[#tier 2 SONG]] or [[#tier 1 SYMPHONY]] at no extra cost.
 
-**250 EUR** 
-[book here](https://cal.com/simonohler/loops-special)
+~~**250 EUR**~~ **99 EUR**
+[book here](https://cal.com/simonohler/voice-special)
 
 great for:
 - quick unblocking
 - low commitment
+- sampling work
 
 ---

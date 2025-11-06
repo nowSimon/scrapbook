@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5 working with me/closing loops coaching.md",
+                "file": "source/content/5 working with me/voice coaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "closing loops coaching"
+              "title": "voice coaching"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/5 working with me/closing loops coaching.md",
+                "file": "source/content/5 working with me/voice coaching.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of closing loops coaching"
+              "title": "Graph of voice coaching"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "87f4547fe3d239c7",
   "lastOpenFiles": [
-    "cal.com/simonohler/loops.md",
+    "source/content/5 working with me/difficult conversations coaching.md",
     "source/content/5 working with me/closing loops coaching.md",
+    "cal.com/simonohler/loops.md",
     "source/content/5 working with me/voice coaching.md",
     "www.cal.com/simonohler/loops-special.md",
     "www.cal.com/simonohler",
@@ -226,7 +227,6 @@
     "source/content/0 images/image.webp",
     "source/content/0 images/Man, sometimes it takes you a long time to sound like yourself..webp",
     "source/content/0 images/ohler coach.webp",
-    "source/content/5 working with me/difficult conversations coaching.md",
     "source/content/2 blog post sprouts/all good coaching programs look like this.md",
     "source/content/3 blog post seeds/belief and value systems.md",
     "source/content/4 meme & spell glossary/should.md",
