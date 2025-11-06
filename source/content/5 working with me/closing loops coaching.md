@@ -1,4 +1,10 @@
 
+closing loops is all rage right now. maybe you found my work via this viral tweet:
+
+https://x.com/simon_ohler/status/1985048224642589041
+
+![[image.webp|500]]
+
 3 tiers:
 
 1 off introduction: introduces the most important concepts. (~~250 EUR~~ 99 EUR)
