@@ -28,7 +28,7 @@ or! you could [book a little call with me here](https://cal.com/simonohler/voice
 
 ---
 
-Jenn worked with me on her voice & resonance and she had these takeaways:
+**Jenn worked with me on her voice & resonance and she had these takeaways:**
 
 - Was useful to hear when he felt I was being truthful, and when I was not
 - I realized that I often times soften how I feel to make other people feel seen

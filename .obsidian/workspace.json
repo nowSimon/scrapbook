@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5 working with me/voice coaching.md",
+                "file": "source/content/contact me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "voice coaching"
+              "title": "contact me"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/content/5 working with me/voice coaching.md",
+                "file": "source/content/contact me.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of voice coaching"
+              "title": "Graph of contact me"
             }
           }
         ],
@@ -207,12 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87f4547fe3d239c7",
+  "active": "badb770c729484a3",
   "lastOpenFiles": [
-    "source/content/5 working with me/difficult conversations coaching.md",
     "source/content/5 working with me/closing loops coaching.md",
-    "cal.com/simonohler/loops.md",
     "source/content/5 working with me/voice coaching.md",
+    "source/content/5 working with me/difficult conversations coaching.md",
+    "cal.com/simonohler/loops.md",
     "www.cal.com/simonohler/loops-special.md",
     "www.cal.com/simonohler",
     "www.cal.com",
@@ -223,7 +223,7 @@
     "source/content/testimonials.md",
     "source/content/TREEWEEK TWO.md",
     "source/content/3 blog post seeds/closing loops.md",
-    "contact me.md",
+    "source/content/contact me.md",
     "source/content/0 images/image.webp",
     "source/content/0 images/Man, sometimes it takes you a long time to sound like yourself..webp",
     "source/content/0 images/ohler coach.webp",
