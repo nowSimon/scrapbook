@@ -42,3 +42,53 @@ Jenn worked with me on her voice & resonance and she had these takeaways:
 
 ## pricing
 
+tier 1: full [[#closing loops program]]
+
+6 sessions @ 60 minutes
+   
+usually scheduled across 10-20 weeks depending on your needs and my availability.
+   
+includes dm support during program duration.
+   
+**799 EUR** for private individuals
+[[contact me]] for B2B offer
+   
+great for: 
+- lasting habit building
+- accompanying a project
+- diving deeper into emotional causes
+   
+
+#### tier 2: intensive [[#closing loops program]]
+
+3 sessions @ 60 minutes
+   
+scheduled across 3-6 weeks.
+
+combines sessions 1/2, 3/4, 5/6 into 3 respective sessions.
+
+**499 EUR** for private individuals
+[[contact me]] for B2B offer
+
+great for:
+- fast learners
+- urgent results
+- more affordable access
+
+
+#### tier 3: one off introduction
+
+1 session @ 60 minutes
+
+together we'll do an analysis of situation and put some open loops on paper. pretty much session 1 of [[#closing loops program]], with some of session 2 mixed in.
+
+if you like this, we can extend this to [[#tier 2 intensive closing loops program]] or [[#tier 1 full closing loops program]] at no extra cost.
+
+**250 EUR** 
+[book here](https://cal.com/simonohler/loops-special)
+
+great for:
+- quick unblocking
+- low commitment
+
+---

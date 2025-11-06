@@ -1,6 +1,4 @@
-wip
-
-if you want this, [schedule a call](cal.com/simonohler/loops)!
+> [!info] if you want this, [[contact me]]! other booking options below in the pricing section.
 
 closing loops is all the rage right now. maybe you found my work via this viral tweet:
 
@@ -39,7 +37,7 @@ I'll coach you through this in 6 sessions.
 
 ## pricing
 
-### tier 1: full [[#closing loops program]]
+#### tier 1: full [[#closing loops program]]
 
 6 sessions @ 60 minutes
    
@@ -47,8 +45,8 @@ usually scheduled across 10-20 weeks depending on your needs and my availability
    
 includes dm support during program duration.
    
-**800 EUR** for private individuals
-[[contact me]] for B2B offering
+**799 EUR** for private individuals
+[[contact me]] for B2B offer
    
 great for: 
 - lasting habit building
@@ -56,7 +54,7 @@ great for:
 - diving deeper into emotional causes
    
 
-### tier 2: intensive [[#closing loops program]]
+#### tier 2: intensive [[#closing loops program]]
 
 3 sessions @ 60 minutes
    
@@ -64,38 +62,28 @@ scheduled across 3-6 weeks.
 
 combines sessions 1/2, 3/4, 5/6 into 3 respective sessions.
 
+**499 EUR** for private individuals
+[[contact me]] for B2B offer
+
 great for:
-- fast inspiration
-- 
+- fast learners
+- urgent results
+- more affordable access
 
 
+#### tier 3: one off introduction
 
-off introduction: introduces the most important concepts. (~~250 EUR~~ 99 EUR)
+1 session @ 60 minutes
 
-= session 1 of mini program 
+together we'll do an analysis of situation and put some open loops on paper. pretty much session 1 of [[#closing loops program]], with some of session 2 mixed in.
 
-is incomplete:
-	- because it's a one-off it's not a habit builder
-	- not enough time to deep dive the concepts
-	- potentially less emotionally attuned 
-	- -> not a program, more like a spontaneous session that mixes your needs with my suggestions
+if you like this, we can extend this to [[#tier 2 intensive closing loops program]] or [[#tier 1 full closing loops program]] at no extra cost.
 
+**~~250 EUR~~ 99 EUR** 
+[book here](https://cal.com/simonohler/loops-special)
 
+great for:
+- quick unblocking
+- low commitment
 
-
-
-6 session full program: (800 EUR = 133 p/s)
-
-
-
-
-
-here are questions for you:
-
-1) I guess you're you're struggling with some of the following things
-	1) to do list sprawl and decay (you make a to do list and it gets out of date and it frustrates you; you don't know how to identify what to do next)
-	2) you can't estimate how long tasks take you
-	3) you have a hard time prioritizing
-	4) you waste time on your phone (or in other ingenious ways)
-   Please correct me if I'm wrong, or specify.
-2) What do you want to get done? ()
+---
