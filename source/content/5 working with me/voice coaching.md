@@ -1,4 +1,6 @@
 
+![[Man, sometimes it takes you a long time to sound like yourself..webp]]
+
 someone asked me: simon, you say you do "voice coaching". what is that and how does it work?
 
 and I replied:
