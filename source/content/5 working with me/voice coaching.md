@@ -37,3 +37,8 @@ Jenn worked with me on her voice & resonance and she had these takeaways:
 - Simon reintroduced the idea of resonance, specifically through the voice, and how you can feel when something is in resonance vs when it is not. I will have to continue to practice this
 - It was also nice to speak with someone that is accepting of my "crazy thoughts"
 - I also realized I was overdue for a visit to Europe :)
+
+---
+
+## pricing
+
