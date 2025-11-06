@@ -1,5 +1,5 @@
 
-![[Man, sometimes it takes you a long time to sound like yourself..webp]]
+![[Man, sometimes it takes you a long time to sound like yourself..webp|500]]
 
 someone asked me: simon, you say you do "voice coaching". what is that and how does it work?
 
